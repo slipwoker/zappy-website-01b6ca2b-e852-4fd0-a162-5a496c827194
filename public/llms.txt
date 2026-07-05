@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://-01b6ca2b.zappy5.app
+https://example.com
 ברוכים הבאים לעילאי בגדים, חנות האופנה המובילה שמציעה בגדים מעוצבים לכל אירוע. כנסו עכשיו לאתר וגלו קולקציות מרהיבות שישדרגו את המראה שלכם!
 
 ### קיימות
-https://-01b6ca2b.zappy5.app/sustainability
+https://example.com/sustainability
 הצטרפו לעילאי בגדים במסע לעתיד אופנתי יותר! למידע על תהליכי ייצור ידידותיים לסביבה, חומרים ממוחזרים ומחויבותנו לקיימות אמיתית. בואו להתלבש בטוב!
 
 ### לוקבוק
-https://-01b6ca2b.zappy5.app/lookbook
+https://example.com/lookbook
 התאהבו בקולקציות האחרונות של עילאי בגדים דרך לוקבוק צבעוני ומלא השראה. דפדפו בין מראות שובי לב, שלבו פריטים והתחילו ליצור את הסגנון המושלם שלכם עוד היום!
 
 ### צור קשר
-https://-01b6ca2b.zappy5.app/contact
+https://example.com/contact
 יש לכם שאלה על מידה, משלוח או סטיילינג? צוות עילאי בגדים כאן בשבילכם! מלאו את הטופס או חייגו אלינו וקבלו מענה אישי ומהיר. שירות הלקוחות שלנו מחכה לכם.
 
 ### Products
-https://-01b6ca2b.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - עילאי בגדים
 
 ### Cart
-https://-01b6ca2b.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-01b6ca2b.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-01b6ca2b.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-01b6ca2b.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-01b6ca2b.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-01b6ca2b.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - עילאי בגדים
 
 ### Category
-https://-01b6ca2b.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - עילאי בגדים
 
 ### תודה שפנית אלינו
-https://-01b6ca2b.zappy5.app/thank-you
+https://example.com/thank-you
 עילאי בגדים - תודה שפנית אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-01b6ca2b.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-01b6ca2b.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-01b6ca2b.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -97,8 +97,8 @@ Fashion & Apparel
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-01b6ca2b.zappy5.app/sitemap.xml
-- Robots: https://-01b6ca2b.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-01b6ca2b.zappy5.app/llms-full.txt
-- Products (JSON): https://-01b6ca2b.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-01b6ca2b.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
